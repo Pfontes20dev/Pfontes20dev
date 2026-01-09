@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Olá, eu sou o Pedro Fontes 👋</h1>
 
 <p align="center">
